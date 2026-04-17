@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FocusDice</string>
+    <string name="rolls_template">Бросков: %1$d</string>
+    <string name="done_template">Выполнено: %1$d</string>
+    <string name="success_text">Отлично! Отмечено как выполнено ✅</string>
+</resources>
